@@ -4,7 +4,7 @@
 
 **Student ID: 27404**
 
-**Name:**
+**Name:UWERA CYNTHIA CARMELLA**
 
 **Concentration: Software Engineering**
 
@@ -98,4 +98,4 @@ This project successfully demonstrates the implementation of a Student Course Ma
 
 
 
-**Colossians 3:23 – "Whatever you do, work at it with all your heart, as working for the Lord, not for human masters."**
+
