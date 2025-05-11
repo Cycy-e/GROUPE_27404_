@@ -29,10 +29,8 @@ The results from the queries help us analyze student enrollments, courses, and i
 
 **3. Conceptual Diagram**
 
-![course](https://github.com/user-attachments/assets/75efa231-1c12-453b-bb1b-a2fad9914111)
-![ENROLLMENTS](https://github.com/user-attachments/assets/1b69a47c-c9ad-4ac2-95c8-ce92d2556f85)
-![INSTRUCTORS](https://github.com/user-attachments/assets/a92f7144-d555-433f-9a16-76f5ba5ec170)
-![STUDENT ](https://github.com/user-attachments/assets/b68181ac-021d-4dd0-aefe-3815d8a13775)
+![6](https://github.com/user-attachments/assets/57b35de9-7100-4435-8275-5cedc6f630a9)
+
 
 **DDL(Data Definition Language)**
 
