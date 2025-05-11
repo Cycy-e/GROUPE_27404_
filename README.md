@@ -71,7 +71,8 @@ The results from the queries help us analyze student enrollments, courses, and i
 **SQL Queries**
 
 **a) Retrieve Students and Their Enrolled Courses**
-![006](https://github.com/user-attachments/assets/85f1ee54-a865-45b2-80f8-18235fb5c25a)
+![006](https://github.com/user-attachments/assets/bb88b5bd-e845-43ce-8dea-780748f1eaf3)
+
 
 **b) Retrieve Records Where an Entity Has More Than 3 Related Transactions**
 ![update ](https://github.com/user-attachments/assets/b3fe2c30-928b-4505-bb66-abb3eb6ad1d3)
