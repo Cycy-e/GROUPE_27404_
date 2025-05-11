@@ -1,4 +1,4 @@
-![4](https://github.com/user-attachments/assets/c8088d1a-c7e2-4cc1-944e-3ab4a385c7fb)**Oracle Database Project - Student Course Management System**
+**Oracle Database Project - Student Course Management System**
 
 **1. Introduction**
 
